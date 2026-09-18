@@ -4,3 +4,4 @@ aiohttp~=3.12.14
 pydantic-settings~=2.10.1
 
 https://docs.google.com/spreadsheets/d/10xTm_iTqV43h9SqXsldhzhqv9HBpjA2tXrfU8KKDFuw/edit?usp=drivesdk
+https://chatgpt.com/share/6aad120b-1b4c-83eb-aa0c-4e3a635a74a5
